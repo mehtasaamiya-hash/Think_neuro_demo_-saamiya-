@@ -1,0 +1,12 @@
+{
+  "name": "thinkneuro",
+  "version": "0.1.0",
+  "description": "A new Node.js starter project for thinkneuro.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "author": "",
+  "license": "MIT"
+}
